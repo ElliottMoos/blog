@@ -8,4 +8,4 @@ nav:
 
 # Hi I'm Elliott Moos.
 
-## I'm a software engineer who's interested in a lot of things. Probably too many things.
+I'm a software engineer who's interested in a lot of things. Probably too many things.
